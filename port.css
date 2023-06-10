@@ -1,0 +1,139 @@
+.img1{
+    height: 90px;
+    width: 100px;
+    margin-left: 100px;
+}
+.g1{
+    margin-right: 100px;
+}
+
+.b1{
+    background-color: rgba(9, 13, 216, 0.981);
+}
+/* #n1{
+    background-repeat:no-repeat;
+    
+    height: 700px;
+    width: 100%;
+    margin: 0;
+} */
+body{
+    margin: 0;
+    
+}
+.bodyimage{
+    height: 100px;
+}
+#img img{
+    width: 80%;
+    /* background-color: blue; */
+    
+}
+
+.p1{
+    font-size: 30px;
+   
+    font-style: oblique;
+}
+.p2{
+    font-size: 20px;
+   
+    font-style: oblique;
+}
+h1{
+    font-size: 80px;
+    color: blue;
+   font-style: inherit;
+}
+#img2{
+    height: 400px;
+    width: 70%;
+    /* margin-left: 100px; */
+  
+}
+
+#img2:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transform: scale(1.01);
+}
+.l1{
+    border-radius: 30px;
+    padding: 20px;
+    font-style:oblique;
+    color: bisque;
+    background-color: rgba(137, 43, 226, 0.775);
+}
+.c1{
+    font-size: 50px;
+    color: blueviolet;
+    
+}
+.img3{
+    width: 100%;
+  /* margin-left: 30px; */
+    
+}
+.skill{
+    font-size: 50px;
+   color:orange;
+    
+}
+.card{
+    padding: 10px;
+    height: 300px;;
+    /* display: flex;
+    justify-content: space-evenly; */
+    
+}
+span{
+    color: chartreuse;
+}
+.acad{
+    font-size: 30px;
+    color: rgb(10, 10, 9);
+    
+}
+.acad1{
+   /* height: 300px; */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.x1{
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+   
+}
+.k8{
+    width: 100%;
+    height: 95%;
+}
+.pro{
+    font-size: 50px;
+    color: darkorange;
+}
+.exp{
+    color:rgb(211, 0, 155);
+    font-size: 50px;
+}
+.exp1{
+    margin-top: 100px;
+    color: blueviolet;
+}
+.exp2{
+    color: rgb(6, 12, 1);
+}
+.d1{
+    background-color: gray;
+    
+}
+input{
+    border-radius: 10px;
+    border: 0;
+}
+/* .o0{
+    margin-top: ;
+} */
